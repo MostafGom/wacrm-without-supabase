@@ -1,5 +1,7 @@
 # wacrm-without-supabase — CRM Template for WhatsApp on plain PostgreSQL
 
+> **Note:** The changes in this fork (removing Supabase, running on plain PostgreSQL) were made by directing AI coding agents from my idea; that code is AI-generated. The original project is by [ArnasDon](https://github.com/ArnasDon/wacrm).
+
 > Self-hostable CRM template for WhatsApp® — shared inbox, contacts,
 > sales pipelines, broadcasts, and no-code automations. Fork it, brand
 > it, host it.
